@@ -1,2 +1,2 @@
-# flutter-projects
+# Flutter projects
 Collection of Flutter projects.
